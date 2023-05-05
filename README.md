@@ -1,6 +1,5 @@
 # ToolsForDataScience
-This is a simple notebook to fulfil the final assignment of Tools For DataScience Course Module.
-The Notebook and Pictures answer the following exercise questions.
+This is a simple notebook to fulfil the final assignment of Tools For DataScience Course Module.The Notebook and Pictures answer the following exercise questions.
 
 
 Exercise 2 - Create a markdown cell with the title of the notebook.
